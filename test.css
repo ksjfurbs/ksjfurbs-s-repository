@@ -1,0 +1,16 @@
+body{
+    background-color: linen;
+}
+p{
+    color:chocolate;
+}
+h1{
+    color:cornflowerblue;
+    text-align: center;
+}
+h3{
+    color: blueviolet;
+}
+pre{
+    color:darkgreen;
+}
